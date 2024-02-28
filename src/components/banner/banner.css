@@ -1,0 +1,47 @@
+
+.banner__container{
+    margin-top: 3rem;
+    display: flex;
+    height: 300px;
+    width: 85%;
+    background: yellow;
+    justify-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.banner__box{
+    display: flex;
+
+}
+.banner__box__left{
+    width:40%;
+    margin: 3.7rem 0;
+}
+.banner__box-search{
+    margin: 2rem 0;
+    width: 300px;
+    height: 3rem;
+    border-radius: 8px;
+    font-weight: 900;
+    padding-left: 1rem;
+}
+.banner__box__middle{
+    width: 50%;
+    margin: 2.8rem 8rem;
+}
+.banner__box__right{
+    width: 10%;
+}
+.banner__social{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:100px 0;
+    font-size: 25px;
+}
+#banner__box__img {
+    height: 200px;
+    width: 400px;
+    border-radius: 20px;
+}

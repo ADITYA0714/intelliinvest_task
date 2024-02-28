@@ -1,0 +1,39 @@
+.location__container {
+    width: 100vw;
+    margin-top: 2rem;
+    height: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+}
+
+.location__img {
+    width: 27vw;
+    display: inline-block;
+}
+
+img {
+    width: 350px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+.location__text {
+    width: 40vw;
+}
+
+.location__text-input {
+    font-size: 20px;
+    height: 30px;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+
+.location__btn-btn {
+    font-size: 25px;
+    border-radius: 20px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
